@@ -46,6 +46,7 @@ int main() {
 
 
 ## Output:
+![image](https://github.com/user-attachments/assets/84deddf8-b692-4df1-9240-97b4a3baca50)
 
 
 ## Result:
